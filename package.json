@@ -1,0 +1,23 @@
+{
+  "name": "homework1",
+  "version": "1.0.0",
+  "description": "Node homework simple cli application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andrii-Verhun/goit-node.js-hw-01.git"
+  },
+  "author": "Andrii Verhun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andrii-Verhun/goit-node.js-hw-01/issues"
+  },
+  "homepage": "https://github.com/Andrii-Verhun/goit-node.js-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
